@@ -1,5 +1,5 @@
 # fltrApp
-FLTRgui (Filter Location Tracking Record) is a fuel filter tracking application.
+FLTRgui (Filter Location Tracking Record) is a fuel filter tracking application with a GUI.
 
 This app may be used to view filter lists per location for quick and reliable reference.
 
